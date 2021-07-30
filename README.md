@@ -29,3 +29,8 @@ Aswell as this cookie extention:
 
 This is inspired by:
 https://github.com/Lytexx/hollow_memories
+
+
+If you get an error like this one:
+change your DNS settings to for example: 8.8.8.8 or 1.1.1.1
+<urlopen error [Errno 11004] getaddrinfo failed>
